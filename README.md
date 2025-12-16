@@ -22,6 +22,7 @@ What's most clear is that this is a trend that's growing in all areas. No single
 **Busy Professionals Overtake Biohackers**
 
 My analysis showed that **Biohacking** is still a growing trend, but busy professionals are emerging as a newer group that see optimising their health as critical to part of a busy proefssional life.
+
 ---
 
 ## Methodology & Technology Stack
